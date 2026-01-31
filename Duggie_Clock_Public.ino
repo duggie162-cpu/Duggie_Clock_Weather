@@ -4,7 +4,7 @@
  *                                A Simple Project
  * ============================================================================
  *
- * Target Hardware: ESP32, 1.9" OLED 128x64
+ * Target Hardware: ESP8266, 1.9" OLED 128x64
  *
  * Use:
  *   - Time
